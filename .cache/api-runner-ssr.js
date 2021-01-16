@@ -8,17 +8,23 @@ var plugins = [{
       plugin: require('/Users/davidcerezallanda/cerecea.github.io/node_modules/gatsby-plugin-theme-ui/gatsby-ssr'),
       options: {"plugins":[]},
     },{
+      plugin: require('/Users/davidcerezallanda/cerecea.github.io/node_modules/gatsby-plugin-google-gtag/gatsby-ssr'),
+      options: {"plugins":[],"trackingIds":["G-BP504S5PF8"]},
+    },{
       plugin: require('/Users/davidcerezallanda/cerecea.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[]},
+      options: {"plugins":[],"trackingId":"G-BP504S5PF8"},
     },{
       plugin: require('/Users/davidcerezallanda/cerecea.github.io/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       plugin: require('/Users/davidcerezallanda/cerecea.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"jodie - @lekoarts/gatsby-theme-jodie","short_name":"jodie","description":"Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.","start_url":"/","background_color":"#ffffff","theme_color":"#b75e09","display":"standalone","icons":[{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":null},
+      options: {"plugins":[],"name":"cerecea - blog","short_name":"cerecea","description":"Cerecea es la unión de nuestra pasión por la fotografía y la escritura. Subimos nuestros mejores textos e imágenes.","start_url":"/","background_color":"#ffffff","theme_color":"#0B2A3F","display":"standalone","icons":[{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":null},
     },{
       plugin: require('/Users/davidcerezallanda/cerecea.github.io/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
+    },{
+      plugin: require('/Users/davidcerezallanda/cerecea.github.io/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
+      options: {"plugins":[],"gatsbyRemarkPlugins":[{"resolve":"gatsby-remark-images","options":{"maxWidth":1200}}]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

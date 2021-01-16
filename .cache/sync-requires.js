@@ -5,7 +5,7 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-caches-gatsby-plugin-offline-app-shell-js": hot(preferDefault(require("/Users/davidcerezallanda/cerecea.github.io/.cache/caches/gatsby-plugin-offline/app-shell.js"))),
+  "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/davidcerezallanda/cerecea.github.io/.cache/dev-404-page.js"))),
   "component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-homepage-query-tsx": hot(preferDefault(require("/Users/davidcerezallanda/cerecea.github.io/node_modules/@lekoarts/gatsby-theme-jodie-core/src/templates/homepage-query.tsx"))),
   "component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-page-query-tsx": hot(preferDefault(require("/Users/davidcerezallanda/cerecea.github.io/node_modules/@lekoarts/gatsby-theme-jodie-core/src/templates/page-query.tsx"))),
   "component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx": hot(preferDefault(require("/Users/davidcerezallanda/cerecea.github.io/node_modules/@lekoarts/gatsby-theme-jodie-core/src/templates/project-query.tsx"))),

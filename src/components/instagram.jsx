@@ -10,7 +10,6 @@ const Instagram = () => {
   return (
     <div className="instagram-grid">
       {nodes.map((post) => {
-        const title = post.caption ? post.caption.split(`#`)[0] : ``
         const date = new Date(post.timestamp * 1000).toLocaleDateString(`de-DE`)
 
         return (
@@ -18,7 +17,7 @@ const Instagram = () => {
             <div className="instagram-overlay" />
             <Img fluid={post.localFile.childImageSharp.fluid} />
             <div className="instagram-content">
-              <div className="instagram-title">{title}</div>
+              <div className="instagram-title"></div>
               <div className="instagram-bottom">
                 <span className="instagram-heart">
                   <Heart /> {post.likes}
