@@ -53,6 +53,16 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-projects-query-tsx-26e13d8f32cbbd9a3bf7.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/projects/page-data.json>; rel=preload; as=fetch; crossorigin
+/bendicion
+  Link: </webpack-runtime-5b1b99e34d90cc8bfd5b.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </app-e6fa831ca65cedfd4e02.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-66d437e1c01d1c70b1ce.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-8ebaaa897a3cc9e8bd1d.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/bendicion/page-data.json>; rel=preload; as=fetch; crossorigin
 /recopilacion-extractos-ii
   Link: </webpack-runtime-5b1b99e34d90cc8bfd5b.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
