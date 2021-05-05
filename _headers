@@ -53,6 +53,16 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-projects-query-tsx-26e13d8f32cbbd9a3bf7.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/projects/page-data.json>; rel=preload; as=fetch; crossorigin
+/fragmento-sefardi
+  Link: </webpack-runtime-e527c8a44a0bb449bf3b.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </app-9a4803f9ca268e51cf87.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-c9210c2d3c5846e66a49.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-7be84e3b1b3363e6ee53.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/fragmento-sefardi/page-data.json>; rel=preload; as=fetch; crossorigin
 /insolidaridad
   Link: </webpack-runtime-e527c8a44a0bb449bf3b.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -63,16 +73,6 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-7be84e3b1b3363e6ee53.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/insolidaridad/page-data.json>; rel=preload; as=fetch; crossorigin
-/bendicion
-  Link: </webpack-runtime-e527c8a44a0bb449bf3b.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
-  Link: </app-9a4803f9ca268e51cf87.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-c9210c2d3c5846e66a49.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-7be84e3b1b3363e6ee53.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/bendicion/page-data.json>; rel=preload; as=fetch; crossorigin
 /last
   Link: </webpack-runtime-e527c8a44a0bb449bf3b.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -83,6 +83,16 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-7be84e3b1b3363e6ee53.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/last/page-data.json>; rel=preload; as=fetch; crossorigin
+/bendicion
+  Link: </webpack-runtime-e527c8a44a0bb449bf3b.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-6c3ead24af170cdcb87c.js>; rel=preload; as=script
+  Link: </app-9a4803f9ca268e51cf87.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-c9210c2d3c5846e66a49.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-7be84e3b1b3363e6ee53.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/bendicion/page-data.json>; rel=preload; as=fetch; crossorigin
 /cea-civitatem-mirificam
   Link: </webpack-runtime-e527c8a44a0bb449bf3b.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
